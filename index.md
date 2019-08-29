@@ -3,4 +3,4 @@
 **My favorite things about CS 193**
 - The instructors
 - The course material
-- The PSO's
+- The students
